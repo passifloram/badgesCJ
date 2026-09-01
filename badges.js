@@ -133,6 +133,7 @@
         'misc-omamori': ['Omamori', 'divers/omamori.png'],
         'misc-floral-design': ['Floral Design', 'divers/floral-design.png'],
         'trophycb-1': ['Trophée CB', 'divers/trophycb-1.png'],
+        'reward-crown': ['Le sang de la veine', 'divers/reward-crown.png'],
 
         'reward-welcome-wagon': ['Welcome Wagon', 'flood-et-vie-du-forum/welcome-wagon.png'],
         'reward-take-a-chance-on-me': ['Take a Chance on Me', 'flood-et-vie-du-forum/take-a-chance-on-me.png'],
