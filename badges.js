@@ -1,5 +1,5 @@
 /* bibliothèque des badges
-   MAJ : 21/08/2026 — 127 visuels */
+   MAJ : 21/08/2026 — 131 visuels */
 ;(function () {
     'use strict';
 
