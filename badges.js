@@ -106,7 +106,6 @@
         'sport-gym-2': ['Salle de sport', 'sport/gym-2.png'],
         'sport-gym-3': ['Salle de sport', 'sport/gym-3.png'],
         'sport-fitness': ['Fitness', 'sport/fitness.png'],
-        'sport-football': ['Football', 'sport/football.png'],
         'sport-archery': ['Tir à l’arc', 'sport/archery.png'],
 
         'london-underground': ['London Underground', 'special-london/underground.png'],
