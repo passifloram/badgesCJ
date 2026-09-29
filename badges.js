@@ -107,6 +107,8 @@
         'sport-gym-3': ['Salle de sport', 'sport/gym-3.png'],
         'sport-fitness': ['Fitness', 'sport/fitness.png'],
         'sport-archery': ['Tir à l’arc', 'sport/archery.png'],
+        'sport-boxe-1': ['Boxe', 'sport/boxe-1.png'],
+        'sport-boxe-2': ['Boxe', 'sport/boxe-2.png'],
 
         'london-underground': ['London Underground', 'special-london/underground.png'],
         'london-station': ['Station londonienne', 'special-london/station.png'],
