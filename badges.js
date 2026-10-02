@@ -92,6 +92,7 @@
         'music-band': ['Groupe', 'music-of-my-life/band.png'],
         'music-electronic': ['Musique électronique', 'music-of-my-life/electronic.png'],
         'music-drums': ['Batterie', 'music-of-my-life/drums.png'],
+        'music-org': ['Orgue', 'music-of-my-life/orgue.png'],
 
         'theater-mask-1': ['Theater Kid', 'theater-kid/theater-mask-1.png'],
         'theater-mask-12': ['Theater Kid', 'theater-kid/theater-mask-12.png'],
