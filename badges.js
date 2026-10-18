@@ -110,6 +110,7 @@
         'sport-archery': ['Tir à l’arc', 'sport/archery.png'],
         'sport-boxe-1': ['Boxe', 'sport/boxe-1.png'],
         'sport-boxe-2': ['Boxe', 'sport/boxe-2.png'],
+        'sport-swimming': ['Natation', 'sport/swimming.png'],
 
         'london-underground': ['London Underground', 'special-london/underground.png'],
         'london-station': ['Station londonienne', 'special-london/station.png'],
