@@ -142,7 +142,7 @@
         'reward-crown-3': ['le sang de la jugulaire', 'divers/reward-crown-3.png'],
         'trophycb-2': ['Trophée CB', 'divers/trophycb-2.png'],
         'snowballV11': ['Version 11', 'divers/snowballV11.png'],
-        'reward-candyhunt': ['Chasse aux bonbons 2026', 'divers/candyhunt (1).png'],
+        'reward-candyhunt': ['Chasse aux bonbons 2026', 'divers/candy-hunt (1).png'],
         'reward-candyhunt1': ['1er de la chasse aux bonbons 2026', 'divers/candy-hunt-winner1.png'],
         'reward-candyhunt2': ['2nd de la chasse aux bonbons 2026', 'divers/candy-hunt-winner2.png'],
         'reward-candyhunt3': ['3ème de la chasse aux bonbons 2026', 'divers/candy-hunt-winner3.png'],
