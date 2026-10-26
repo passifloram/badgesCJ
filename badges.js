@@ -112,7 +112,7 @@
         'sport-boxe-2': ['Boxe', 'sport/boxe-2.png'],
         'sport-swimming': ['Natation', 'sport/swimming.png'],
 
-        'london-underground': ['London Underground', 'special-london/underground.png'],
+        'london-underground': ['Version 10', 'special-london/underground.png'],
         'london-station': ['Station londonienne', 'special-london/station.png'],
         'london-metro-2': ['Métro londonien', 'special-london/metro-2.png'],
         'london-metro-4': ['Métro londonien', 'special-london/metro-4.png'],
