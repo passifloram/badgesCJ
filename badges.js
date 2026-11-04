@@ -81,6 +81,8 @@
         'gang-riders-2': ['Riders of the Apocalypse', 'the-gangs/riders-of-the-apocalypse-2.png'],
         'gang-riders-3': ['Riders of the Apocalypse', 'the-gangs/riders-of-the-apocalypse-3.png'],
         'gang-primo-sangue': ['Primo Sangue', 'the-gangs/primo-sangue.png'],
+        'gang-saints-of-nowhere-1': ['Saints of nowhere', 'the-gangs/saints-of-nowhere-1.png'],
+        'gang-saints-of-nowhere-2': ['Saints of nowhere', 'the-gangs/saints-of-nowhere-2.png'],
 
         'music-violin': ['Violon', 'music-of-my-life/violin.png'],
         'music-solo': ['Artiste solo', 'music-of-my-life/solo.png'],
