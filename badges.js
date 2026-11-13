@@ -220,9 +220,7 @@
 
         var labelNode = field.querySelector(':scope > label');
 
-        /* Les règles générales du profil imposent une grille 95px + contenu.
-           On neutralise directement cette grille pour laisser toute la largeur
-           à la galerie, sur page complète comme dans la popup AJAX. */
+        
         field.style.setProperty('display', 'block', 'important');
         field.style.setProperty('grid-column', '1 / -1', 'important');
         field.style.setProperty('width', '100%', 'important');
