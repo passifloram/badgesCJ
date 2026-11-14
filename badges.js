@@ -7,6 +7,7 @@
 
     var BADGES = {
         'job-artist': ['Artiste', 'clocked-in/artist.png'],
+        'job-artist-2': ['Artiste', 'clocked-in/artist2.png'],
         'job-corporate-1': ['Corporate', 'clocked-in/corporate-1.png'],
         'job-corporate-2': ['Corporate', 'clocked-in/corporate-2.png'],
         'job-education': ['Éducation', 'clocked-in/education.png'],
